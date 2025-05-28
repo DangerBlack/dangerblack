@@ -1,12 +1,15 @@
 <h1 align="left">👋 Hi, I'm DangerBlack</h1>
 
-<p align="left">
-  I love building cool stuff, exploring new tech, and hacking things together.
-</p>
-
-<img align="right" src="https://n8n.xn--uny.ws/webhook/github-background.png" width="250" style="border-radius: 12px; margin-left: 20px;" />
-
----
+<table>
+<tr>
+<td>
+I love building cool stuff, exploring new tech, and hacking things together.
+</td>
+<td>
+<img src="https://n8n.xn--uny.ws/webhook/github-background.png" width="250" style="border-radius: 12px; margin-left: 20px;" />
+</td>
+</tr>
+</table>
 
 ## 🚀 Most Loved Project
 
