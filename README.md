@@ -6,7 +6,7 @@
 I love building cool stuff, exploring new tech, and hacking things together.
 </td>
 <td>
-<img src="https://n8n.xn--uny.ws/webhook/github-background.png" width="250" style="border-radius: 12px; margin-left: 20px;" />
+<img src="https://n8n.xn--uny.ws/webhook/github-background.png?no-cache=true" width="250" style="border-radius: 12px; margin-left: 20px;" />
 </td>
 </tr>
 </table>
