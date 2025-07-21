@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-Full‑stack developer [@Cubbit](https://github.com/cubbit/) (Bologna), specializing in Go and TypeScript. Love building tools, exploring new tech and hacking creative solutions
+Full‑stack developer [Cubbit](https://github.com/cubbit/) (Bologna), specializing in Go and TypeScript. Love building tools, exploring new tech and hacking creative solutions
 </td>
 <td>
 <img src="https://n8n.xn--uny.ws/webhook/github-background.png?no-cache=true" width="250" style="border-radius: 12px; margin-left: 20px;" />
