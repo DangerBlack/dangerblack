@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-I love building cool stuff, exploring new tech, and hacking things together.
+Full‑stack developer [@Cubbit](https://github.com/cubbit/) (Bologna), specializing in Go and TypeScript. Love building tools, exploring new tech and hacking creative solutions
 </td>
 <td>
 <img src="https://n8n.xn--uny.ws/webhook/github-background.png?no-cache=true" width="250" style="border-radius: 12px; margin-left: 20px;" />
@@ -27,13 +27,14 @@ This is my passion project – an n8n integration to enable SQLite3 database sup
 
 ---
 
-## 🌟 Most Starred Repos
+## 🌟 Most Loved Repos
 
 Here are some of my most loved repositories:
 
 - 🧪 [n8n-node-sqlite3](https://github.com/DangerBlack/n8n-node-sqlite3) – Lightweight SQLite3 integration for n8n  
 - 🎲 [boardgames_night_bot](https://github.com/DangerBlack/boardgames_night_bot) – Telegram bot for organizing board game nights
+- 🏞️ [advanced_ppu](https://github.com/DangerBlack/advanced-ppu) – Software to manage Scouts’ Unified Personal Progression for youth in an AGESCI Scout group.
 
 ---
 
-_Thanks for stopping by! Feel free to connect or drop a star ⭐️_
+_Thanks for stopping by! feel free to connect, drop a star ⭐️ or support on [Ko-fi](https://ko-fi.com/dangerblack)_
