@@ -13,15 +13,18 @@ Full‑stack developer at Cubbit (Bologna), specializing in Go and TypeScript. L
 
 ## 🚀 Most Loved Project
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DangerBlack&repo=n8n-node-sqlite3&theme=radical)](https://github.com/DangerBlack/n8n-node-sqlite3)
-
-This is my passion project – an n8n integration to enable SQLite3 database support in your automation workflows.
+**[n8n-node-sqlite3](https://github.com/DangerBlack/n8n-node-sqlite3)** — my passion project: an n8n integration that enables SQLite3 database support in your automation workflows.
+ 
+[![Stars](https://img.shields.io/github/stars/DangerBlack/n8n-node-sqlite3?style=for-the-badge&logo=github&color=fe428e&labelColor=141321)](https://github.com/DangerBlack/n8n-node-sqlite3/stargazers)
+[![Forks](https://img.shields.io/github/forks/DangerBlack/n8n-node-sqlite3?style=for-the-badge&logo=github&color=a9fef7&labelColor=141321)](https://github.com/DangerBlack/n8n-node-sqlite3/network/members)
+[![Last commit](https://img.shields.io/github/last-commit/DangerBlack/n8n-node-sqlite3?style=for-the-badge&logo=github&color=fe428e&labelColor=141321)](https://github.com/DangerBlack/n8n-node-sqlite3/commits)
 
 ---
 
 ## 📈 My GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DangerBlack&show_icons=true&theme=radical&count_private=true)  
+![Stats](https://raw.githubusercontent.com/DangerBlack/DangerBlack/main/profile-summary-card-output/radical/3-stats.svg)
+
 <img src="./image/most_used_language_dark.png#gh-dark-mode-only" alt="" width="300">
 <img src="./image/most_used_language_light.png#gh-light-mode-only" alt="" width="300">
 
@@ -33,7 +36,8 @@ Here are some of my most loved repositories:
 
 - 🧪 [n8n-node-sqlite3](https://github.com/DangerBlack/n8n-node-sqlite3) – Lightweight SQLite3 integration for n8n  
 - 🎲 [boardgames_night_bot](https://github.com/DangerBlack/boardgames_night_bot) – Telegram bot for organizing board game nights
-- 🏞️ [advanced_ppu](https://github.com/DangerBlack/advanced-ppu) – Software to manage Scouts’ Unified Personal Progression for youth in an AGESCI Scout group.
+- 📊 [daytrack](https://github.com/DangerBlack/daytrack) - A self-hostable solution to track daily activity like watering the plants or change the bed sheets
+- 🏞️ [advanced_ppu](https://github.com/DangerBlack/advanced-ppu) – Software to manage Scouts’ Unified Personal Progression for youth in an AGESCI Scout group
 
 ---
 
