@@ -24,9 +24,7 @@ Full‑stack developer at Cubbit (Bologna), specializing in Go and TypeScript. L
 ## 📈 My GitHub Stats
 
 ![Stats](https://raw.githubusercontent.com/DangerBlack/dangerblack/refs/heads/main/profile-summary-card-output/radical/3-stats.svg)
-
-<img src="./image/most_used_language_dark.png#gh-dark-mode-only" alt="" width="300">
-<img src="./image/most_used_language_light.png#gh-light-mode-only" alt="" width="300">
+![Languages](https://github.com/DangerBlack/dangerblack/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg)
 
 ---
 
